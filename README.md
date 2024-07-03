@@ -1,3 +1,5 @@
+Neste repositório está misturado conceitos sobre testes e, mais especificamente, tópicos voltados para teste com Java
+
 ### 1. **Fundamentos de Testes de Software**
    - **O que é teste de software?** [Software Testing Help](https://www.softwaretestinghelp.com/what-is-software-testing/)
    - **Importância dos testes automatizados** [Atlassian: Automated Testing](https://www.atlassian.com/continuous-delivery/software-testing/automated-testing)
